@@ -1,0 +1,1 @@
+azure adaptation here. this file should not be in the master branch, but only in the azure branch
